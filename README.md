@@ -11,5 +11,5 @@ If the guess is correct, the user is asked if he wants to play again or not.
 Possible improvements:
   - limited number of tries;
   - difficulty selection;
-  - 
+  - multiplayer.
 
