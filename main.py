@@ -69,5 +69,5 @@ def jogar():
 
             elif numero_random < palpite_int:
                 print(f'O número é menor que {palpite_int}')
-if __name__ == __main:
+if __name__ == __main__:
     jogar()
