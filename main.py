@@ -47,7 +47,7 @@ def jogar():
             # esse loop compara o palpite com o número aleatório e retorna se o valor é igual, maior ou menor
 
             if numero_random == palpite_int:
-                print(f'Você acertou! Você precisou de {tentativas} {'tentativas' if tentativas > 1 else 'tentativa'}')
+                print(f'Você acertou! Você precisou de {tentativas} {"tentativas" if tentativas > 1 else "tentativa"}')
 
                 while True:
 
